@@ -1,59 +1,39 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# 🧐 Advanced Building Blocks - Enumerables
 
-# Project Name
-
-> One paragraph statement about the project.
+> This is the second Ruby project from the Microverse program. It's a program built to understand how inbuilt methods work and how they are built.
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+## 🔧 Built With
 
-## Built With
+- Ruby.
+- Using Linters for Ruby.
+- Using Bundler.
 
-- Major languages,
-- frameworks,
-- technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
+## 🛠 Getting Started
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+- Go to the main page of te repo.
+- Press the "Code" button and get the repo link.
+- Clone it using git.
+- Open terminal on that folder.
+- Run the next command:
+  ´\$ruby enumerables.rb´
 
-### Setup
+## 👤 Authors
 
-### Install
+👤 **Paul Balitema**
 
-### Usage
+- Github: [@pbkabali](https://github.com/pbkabali)
+- Twitter: [@pbkabali](https://twitter.com/pbkabali)
+- Linkedin: [[engineerbpk](www.linkedin.com/in/engineerbpk)
 
-### Run tests
+👤 **Giordano Díaz**
 
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@diazgio](https://github.com/diazgio)
+- Twitter: [@giordano_diaz](https://twitter.com/giordano_diaz)
+- LinkenIn:[LinkenIn](www.linkedin.com/in/Giordano-Diaz)
 
 ## 🤝 Contributing
 
@@ -64,12 +44,6 @@ Feel free to check the [issues page](issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
